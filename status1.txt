@@ -1,0 +1,21 @@
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   src/config.txt
+	new file:   src/generate_list.py
+	new file:   src/generate_list.pyc
+	new file:   src/generate_list2.py
+	new file:   src/generate_list2.pyc
+	new file:   src/genlist_test.py
+	new file:   src/genlist_test2.py
+	new file:   src/genlist_test2.pyc
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	status1.txt
+
